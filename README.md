@@ -3,7 +3,7 @@ Displays the level of mana from multiple Botania mana pools on a ComputerCraft m
 
 <br>
 
-[image]
+![screenshot](./screenshot.png)
 
 <br>
 
